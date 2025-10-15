@@ -1,4 +1,4 @@
-# SI507-Final
+# Interactive Flask Application for Movie Metadata Exploration
 
 I designed and developed an interactive web application that allows users to explore detailed information about movies. The platform provides key details such as the release year, director, main cast, and official movie poster. Additionally, users can instantly watch the trailer by clicking on the movie’s image, which redirects them to its YouTube trailer.
 
